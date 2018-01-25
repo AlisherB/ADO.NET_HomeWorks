@@ -1,0 +1,19 @@
+C:\Users\Alisher\Desktop\ADO_HWs\HW_09.01.18\HW_09.01.18\bin\Debug\HW_09.01.18.exe.config
+C:\Users\Alisher\Desktop\ADO_HWs\HW_09.01.18\HW_09.01.18\bin\Debug\HW_09.01.18.exe
+C:\Users\Alisher\Desktop\ADO_HWs\HW_09.01.18\HW_09.01.18\bin\Debug\HW_09.01.18.pdb
+C:\Users\Alisher\Desktop\ADO_HWs\HW_09.01.18\HW_09.01.18\obj\Debug\HW_09.01.18.csproj.CoreCompileInputs.cache
+C:\Users\Alisher\Desktop\ADO_HWs\HW_09.01.18\HW_09.01.18\obj\Debug\HW_09.01.18.exe
+C:\Users\Alisher\Desktop\ADO_HWs\HW_09.01.18\HW_09.01.18\obj\Debug\HW_09.01.18.pdb
+C:\Users\Alisher\Desktop\ADO_HWs\HW_09.01.18\HW_09.01.18\obj\Debug\HW_09.01.18.csprojResolveAssemblyReference.cache
+C:\Users\Alisher\Desktop\Академия Шаг\ADO_HWs\HW_09.01.18\HW_09.01.18\bin\Debug\HW_09.01.18.exe.config
+C:\Users\Alisher\Desktop\Академия Шаг\ADO_HWs\HW_09.01.18\HW_09.01.18\bin\Debug\HW_09.01.18.exe
+C:\Users\Alisher\Desktop\Академия Шаг\ADO_HWs\HW_09.01.18\HW_09.01.18\bin\Debug\HW_09.01.18.pdb
+C:\Users\Alisher\Desktop\Академия Шаг\ADO_HWs\HW_09.01.18\HW_09.01.18\bin\Debug\EntityFramework.dll
+C:\Users\Alisher\Desktop\Академия Шаг\ADO_HWs\HW_09.01.18\HW_09.01.18\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alisher\Desktop\Академия Шаг\ADO_HWs\HW_09.01.18\HW_09.01.18\bin\Debug\EntityFramework.xml
+C:\Users\Alisher\Desktop\Академия Шаг\ADO_HWs\HW_09.01.18\HW_09.01.18\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alisher\Desktop\Академия Шаг\ADO_HWs\HW_09.01.18\HW_09.01.18\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Alisher\Desktop\Академия Шаг\ADO_HWs\HW_09.01.18\HW_09.01.18\obj\Debug\HW_09.01.18.csprojResolveAssemblyReference.cache
+C:\Users\Alisher\Desktop\Академия Шаг\ADO_HWs\HW_09.01.18\HW_09.01.18\obj\Debug\HW_09.01.18.csproj.CoreCompileInputs.cache
+C:\Users\Alisher\Desktop\Академия Шаг\ADO_HWs\HW_09.01.18\HW_09.01.18\obj\Debug\HW_09.01.18.exe
+C:\Users\Alisher\Desktop\Академия Шаг\ADO_HWs\HW_09.01.18\HW_09.01.18\obj\Debug\HW_09.01.18.pdb

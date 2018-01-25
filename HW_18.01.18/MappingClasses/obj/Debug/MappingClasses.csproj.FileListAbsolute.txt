@@ -1,0 +1,6 @@
+C:\Users\Alisher\Desktop\ADO_HWs\HW_18.01.18\MappingClasses\bin\Debug\MappingClasses.dll
+C:\Users\Alisher\Desktop\ADO_HWs\HW_18.01.18\MappingClasses\bin\Debug\MappingClasses.pdb
+C:\Users\Alisher\Desktop\ADO_HWs\HW_18.01.18\MappingClasses\obj\Debug\MappingClasses.csprojResolveAssemblyReference.cache
+C:\Users\Alisher\Desktop\ADO_HWs\HW_18.01.18\MappingClasses\obj\Debug\MappingClasses.csproj.CoreCompileInputs.cache
+C:\Users\Alisher\Desktop\ADO_HWs\HW_18.01.18\MappingClasses\obj\Debug\MappingClasses.dll
+C:\Users\Alisher\Desktop\ADO_HWs\HW_18.01.18\MappingClasses\obj\Debug\MappingClasses.pdb

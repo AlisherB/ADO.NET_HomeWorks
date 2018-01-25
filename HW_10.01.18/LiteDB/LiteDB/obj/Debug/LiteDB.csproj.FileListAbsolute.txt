@@ -1,0 +1,9 @@
+C:\Users\Alisher\Desktop\Академия Шаг\ADO_HWs\HW_10.01.18\LiteDB\LiteDB\bin\Debug\LiteDB.exe.config
+C:\Users\Alisher\Desktop\Академия Шаг\ADO_HWs\HW_10.01.18\LiteDB\LiteDB\bin\Debug\LiteDB.exe
+C:\Users\Alisher\Desktop\Академия Шаг\ADO_HWs\HW_10.01.18\LiteDB\LiteDB\bin\Debug\LiteDB.pdb
+C:\Users\Alisher\Desktop\Академия Шаг\ADO_HWs\HW_10.01.18\LiteDB\LiteDB\bin\Debug\LiteDB.dll
+C:\Users\Alisher\Desktop\Академия Шаг\ADO_HWs\HW_10.01.18\LiteDB\LiteDB\bin\Debug\LiteDB.xml
+C:\Users\Alisher\Desktop\Академия Шаг\ADO_HWs\HW_10.01.18\LiteDB\LiteDB\obj\Debug\LiteDB.csprojResolveAssemblyReference.cache
+C:\Users\Alisher\Desktop\Академия Шаг\ADO_HWs\HW_10.01.18\LiteDB\LiteDB\obj\Debug\LiteDB.csproj.CoreCompileInputs.cache
+C:\Users\Alisher\Desktop\Академия Шаг\ADO_HWs\HW_10.01.18\LiteDB\LiteDB\obj\Debug\LiteDB.exe
+C:\Users\Alisher\Desktop\Академия Шаг\ADO_HWs\HW_10.01.18\LiteDB\LiteDB\obj\Debug\LiteDB.pdb

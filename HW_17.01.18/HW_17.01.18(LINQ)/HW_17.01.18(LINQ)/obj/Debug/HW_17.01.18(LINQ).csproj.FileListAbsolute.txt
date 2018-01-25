@@ -1,0 +1,11 @@
+C:\Users\Alisher\Desktop\Академия Шаг\ADO_HWs\HW_17.01.18\HW_17.01.18(LINQ)\HW_17.01.18(LINQ)\bin\Debug\HW_17.01.18(LINQ).exe.config
+C:\Users\Alisher\Desktop\Академия Шаг\ADO_HWs\HW_17.01.18\HW_17.01.18(LINQ)\HW_17.01.18(LINQ)\bin\Debug\HW_17.01.18(LINQ).exe
+C:\Users\Alisher\Desktop\Академия Шаг\ADO_HWs\HW_17.01.18\HW_17.01.18(LINQ)\HW_17.01.18(LINQ)\bin\Debug\HW_17.01.18(LINQ).pdb
+C:\Users\Alisher\Desktop\Академия Шаг\ADO_HWs\HW_17.01.18\HW_17.01.18(LINQ)\HW_17.01.18(LINQ)\bin\Debug\EntityFramework.dll
+C:\Users\Alisher\Desktop\Академия Шаг\ADO_HWs\HW_17.01.18\HW_17.01.18(LINQ)\HW_17.01.18(LINQ)\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alisher\Desktop\Академия Шаг\ADO_HWs\HW_17.01.18\HW_17.01.18(LINQ)\HW_17.01.18(LINQ)\bin\Debug\EntityFramework.xml
+C:\Users\Alisher\Desktop\Академия Шаг\ADO_HWs\HW_17.01.18\HW_17.01.18(LINQ)\HW_17.01.18(LINQ)\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alisher\Desktop\Академия Шаг\ADO_HWs\HW_17.01.18\HW_17.01.18(LINQ)\HW_17.01.18(LINQ)\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Alisher\Desktop\Академия Шаг\ADO_HWs\HW_17.01.18\HW_17.01.18(LINQ)\HW_17.01.18(LINQ)\obj\Debug\HW_17.01.18(LINQ).csproj.CoreCompileInputs.cache
+C:\Users\Alisher\Desktop\Академия Шаг\ADO_HWs\HW_17.01.18\HW_17.01.18(LINQ)\HW_17.01.18(LINQ)\obj\Debug\HW_17.01.18(LINQ).exe
+C:\Users\Alisher\Desktop\Академия Шаг\ADO_HWs\HW_17.01.18\HW_17.01.18(LINQ)\HW_17.01.18(LINQ)\obj\Debug\HW_17.01.18(LINQ).pdb

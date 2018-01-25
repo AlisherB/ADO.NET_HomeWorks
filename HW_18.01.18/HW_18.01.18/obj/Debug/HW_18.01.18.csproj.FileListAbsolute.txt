@@ -1,0 +1,7 @@
+C:\Users\Alisher\Desktop\ADO_HWs\HW_18.01.18\HW_18.01.18\bin\Debug\HW_18.01.18.exe.config
+C:\Users\Alisher\Desktop\ADO_HWs\HW_18.01.18\HW_18.01.18\bin\Debug\HW_18.01.18.exe
+C:\Users\Alisher\Desktop\ADO_HWs\HW_18.01.18\HW_18.01.18\bin\Debug\HW_18.01.18.pdb
+C:\Users\Alisher\Desktop\ADO_HWs\HW_18.01.18\HW_18.01.18\obj\Debug\HW_18.01.18.csprojResolveAssemblyReference.cache
+C:\Users\Alisher\Desktop\ADO_HWs\HW_18.01.18\HW_18.01.18\obj\Debug\HW_18.01.18.csproj.CoreCompileInputs.cache
+C:\Users\Alisher\Desktop\ADO_HWs\HW_18.01.18\HW_18.01.18\obj\Debug\HW_18.01.18.exe
+C:\Users\Alisher\Desktop\ADO_HWs\HW_18.01.18\HW_18.01.18\obj\Debug\HW_18.01.18.pdb

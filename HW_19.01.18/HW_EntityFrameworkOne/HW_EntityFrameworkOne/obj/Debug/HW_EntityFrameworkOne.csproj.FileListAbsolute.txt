@@ -1,0 +1,11 @@
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\ADO.NET\ADO.NET_HomeWorks\HW_19.01.18\HW_EntityFrameworkOne\HW_EntityFrameworkOne\bin\Debug\HW_EntityFrameworkOne.exe.config
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\ADO.NET\ADO.NET_HomeWorks\HW_19.01.18\HW_EntityFrameworkOne\HW_EntityFrameworkOne\bin\Debug\HW_EntityFrameworkOne.exe
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\ADO.NET\ADO.NET_HomeWorks\HW_19.01.18\HW_EntityFrameworkOne\HW_EntityFrameworkOne\bin\Debug\HW_EntityFrameworkOne.pdb
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\ADO.NET\ADO.NET_HomeWorks\HW_19.01.18\HW_EntityFrameworkOne\HW_EntityFrameworkOne\bin\Debug\EntityFramework.dll
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\ADO.NET\ADO.NET_HomeWorks\HW_19.01.18\HW_EntityFrameworkOne\HW_EntityFrameworkOne\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\ADO.NET\ADO.NET_HomeWorks\HW_19.01.18\HW_EntityFrameworkOne\HW_EntityFrameworkOne\bin\Debug\EntityFramework.xml
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\ADO.NET\ADO.NET_HomeWorks\HW_19.01.18\HW_EntityFrameworkOne\HW_EntityFrameworkOne\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\ADO.NET\ADO.NET_HomeWorks\HW_19.01.18\HW_EntityFrameworkOne\HW_EntityFrameworkOne\obj\Debug\HW_EntityFrameworkOne.csprojResolveAssemblyReference.cache
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\ADO.NET\ADO.NET_HomeWorks\HW_19.01.18\HW_EntityFrameworkOne\HW_EntityFrameworkOne\obj\Debug\HW_EntityFrameworkOne.csproj.CoreCompileInputs.cache
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\ADO.NET\ADO.NET_HomeWorks\HW_19.01.18\HW_EntityFrameworkOne\HW_EntityFrameworkOne\obj\Debug\HW_EntityFrameworkOne.exe
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\ADO.NET\ADO.NET_HomeWorks\HW_19.01.18\HW_EntityFrameworkOne\HW_EntityFrameworkOne\obj\Debug\HW_EntityFrameworkOne.pdb

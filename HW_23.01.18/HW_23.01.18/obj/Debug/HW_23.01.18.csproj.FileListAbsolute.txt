@@ -1,0 +1,2 @@
+C:\Users\Alisher\Desktop\Академия Шаг\ADO_HWs\HW_23.01.18\HW_23.01.18\obj\Debug\HW_23.01.18.csprojResolveAssemblyReference.cache
+C:\Users\Alisher\Desktop\Академия Шаг\ADO_HWs\HW_23.01.18\HW_23.01.18\obj\Debug\HW_23.01.18.csproj.CoreCompileInputs.cache
